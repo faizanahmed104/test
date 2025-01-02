@@ -51,11 +51,11 @@ foodpanda orders http://localhost:3000/?company=foodpanda
 amazon orders http://localhost:3000/?company=amazon
 
 <div align="center">
-  <img src="daraz.png" alt="Daraz" width="200"/>
+  <img src="/daraz.png" alt="Daraz" width="200"/>
 </div>
-<div align="center">
+<div align="/center">
   <img src="foodpanda.png" alt="foodpanda" width="200"/>
 </div>
 <div align="center">
-  <img src="amazon.png" alt="amazon" width="200"/>
+  <img src="/amazon.png" alt="amazon" width="200"/>
 </div>
