@@ -41,38 +41,7 @@ OrderMade is a white-label order management platform that allows companies to ac
 
 1. Clone the repository:
 
-
-## Features in Detail
-
-### 1. Dynamic Subdomains
-- Production: Uses actual subdomains (e.g., company.ordermade.com)
-- Development: Uses query parameters for testing (e.g., localhost:3000?company=daraz)
-
-### 2. Order Management
-- Sortable columns
-  - Order ID (numeric sorting)
-  - Customer Name (alphabetical sorting)
-  - Amount (numeric sorting)
-  - Status (alphabetical sorting)
-- Status badges with color coding
-  - Delivered: Green
-  - Pending: Yellow
-  - Shipped/In Transit: Blue
-  - Cancelled: Red
-  - Preparing: Gray
-
-### 3. Pagination
-- 10 orders per page
-- Previous/Next navigation
-- Page number indicators
-- Order count display
-
-### 4. Company Onboarding
-- Company name validation
-- Subdomain format validation
-- Admin email verification
-- Automatic subdomain setup
-
-## Production Deployment
-
-1. Set up wildcard DNS records for your domain:
+daraz order by default 
+<div align="center">
+  <img src="daraz.png" alt="OrderMade Logo" width="200"/>
+</div>
